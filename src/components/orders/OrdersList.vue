@@ -10,7 +10,7 @@
               <div class="orders-phoneNumber-wrapper ordersDiv">
                 <strong class="orders-phoneNumber">전화번호 : {{ order.phoneNumber }}</strong>
               </div>
-<!--              zzzzz-->
+<!--&lt;!&ndash;              zzzzz&ndash;&gt;zzzzzzzzz-->
               <div class="orders-time-wrapper ordersDiv">
                 <strong class="orders-time">예약시간 : {{ order.time }}</strong>
               </div>
